@@ -69,4 +69,20 @@
 
 1. Побудувати дерево шляхів рангом `r=4` для випадкового графа `G={6,9}`.
 
+![alt text](https://github.com/DanyloBarabash/Barabash_lab_totk_2021/blob/main/lab3/Graf6_9.png "Tree6_9")
+
+![alt text](https://github.com/DanyloBarabash/Barabash_lab_totk_2021/blob/main/lab3/tree6_9.jpg "Tree9_6")
+
+
 1. Побудувати мінімальне зв’язне дерево для графа `G`. Вказати його вагу.
+
+![alt text](https://github.com/BobasB/lab_example/blob/master/lab_guidance/3_/images/graph.png "Знайти вагу графа")
+
+![alt text](https://github.com/DanyloBarabash/Barabash_lab_totk_2021/blob/main/lab3/last.jpg)
+
+        Вага = 39
+       
+
+## Висновок
+    
+    В цій лабораторінй роботі були вивчені алгоритми обходу графів, побудови дерева шляхів та мінімального зв’язного дерева. В процесі виконання були побудованні різні графи, та застосовані до них вивчені алгоритми.
